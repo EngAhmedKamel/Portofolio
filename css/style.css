@@ -14,9 +14,9 @@ body {
 }
 
 img.pannerimg {
-  opacity: 0.2;
+  opacity: 0.3;
   background-image: url(Images/1.jpg);
-  width: auto;
+  width: 100%;
 }
 
 .mainTitle {
